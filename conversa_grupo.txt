@@ -1,0 +1,20 @@
+11/06/2026, 08:10 - João: Bom dia equipe, segue pedido
+11/06/2026, 08:11 - João: Cliente: Mariana Souza
+11/06/2026, 08:11 - João: Obra: Residencial Aurora - Bloco B
+11/06/2026, 08:12 - João: Peça: Fechadura Click Omega
+11/06/2026, 08:12 - João: Medidas: 1,20m x 2,10m
+11/06/2026, 08:13 - João: Obs: Instalar no lado interno da porta
+
+11/06/2026, 09:05 - Carla: mensagem fora do padrão para ignorar
+11/06/2026, 09:06 - Carla: Cliente: Roberto Lima
+11/06/2026, 09:06 - Carla: Obra: Loja Centro Comercial 14
+11/06/2026, 09:07 - Carla: Peça: Perfil de Alumínio
+11/06/2026, 09:07 - Carla: Medidas: 3,50m linear
+11/06/2026, 09:08 - Carla: Obs: Cor preta fosca
+
+11/06/2026, 10:20 - Ana: Cliente: Condomínio Serra Verde
+11/06/2026, 10:20 - Ana: Obra: Torre 3 - Cobertura
+11/06/2026, 10:21 - Ana: Peça: Vidro Temperado Incolor 8mm
+11/06/2026, 10:21 - Ana: Medidas: 2,00m x 1,80m
+11/06/2026, 10:22 - Ana: Obs: Entrega prevista para sexta-feira
+11/06/2026, 10:23 - Ana: Obrigada!
